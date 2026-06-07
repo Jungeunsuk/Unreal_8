@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\GitStudy\\Unreal_8\\Source\\Unreal_8\\Unreal_8.Build.cs",
+		"C:\\GitStudy\\Unreal_8\\Source\\Unreal_8.Target.cs",
+		"C:\\GitStudy\\Unreal_8\\Source\\Unreal_8Editor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
